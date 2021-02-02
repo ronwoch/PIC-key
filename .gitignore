@@ -1,0 +1,16 @@
+*.swp
+--eeprom.d
+--eeprom.p1
+*.p1
+*.pre
+*.as
+*.cmf
+*.d
+*.hex
+*.hxl
+*.obj
+*.elf
+*.sdb
+*.sym
+*.lst
+*.rlf
